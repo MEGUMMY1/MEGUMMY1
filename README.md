@@ -1,5 +1,5 @@
 <div align="center">  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F4BBBB&height=200&section=header&text=Hyejean%20GitHub&fontSize=60">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FD866E&height=120&section=header&text=Hyejean%20GitHub&fontSize=60">
 </div>
 <div align=center>
   <a>📚 ComputerSoftwareEngineering</h2><br>
