@@ -30,7 +30,3 @@
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> 	
 	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" /> 
 </div>
-<br>
-<div align=center>
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=megummy1)](https://github.com/eungyeole/velog-readme-stats)
-</div>
