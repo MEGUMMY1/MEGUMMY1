@@ -5,7 +5,8 @@
 <div align="center">	
   <p>
 	<a href="https://chohyejean.netlify.app"><img src="https://img.shields.io/badge/Portfolio-005698?style=for-the-badge" /></a>　
-	  <a href="https://velog.io/@megummy1"><img src="https://img.shields.io/badge/Blog-0090ff?style=for-the-badge" /></a>
+	  <a href="https://velog.io/@megummy1"><img src="https://img.shields.io/badge/Blog-0090ff?style=for-the-badge" /></a>　
+	  <a href="mailto:cys10902@gmail.com"><img src="https://img.shields.io/badge/Email-005698?style=for-the-badge" /></a>
   </p>
   <p>
     🌱 Junior Frontend Developer<br/>
