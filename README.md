@@ -27,9 +27,9 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />
-  <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=reactQuery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />  
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=reactQuery&logoColor=white" />
 </div>
 
 <div align="center">
@@ -42,7 +42,6 @@
 <div align="center">
   <h3>🛠️ Tools</h3>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VSCode&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /> 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> 	
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" /> 
