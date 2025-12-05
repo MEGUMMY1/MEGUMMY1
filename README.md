@@ -3,11 +3,6 @@
 </div>
 <div align="center">	
   <p>
-    <a href="https://chohyejean.site"><img src="https://img.shields.io/badge/Portfolio-005698?style=for-the-badge" /></a>　
-    <a href="https://velog.io/@megummy1"><img src="https://img.shields.io/badge/Blog-0090ff?style=for-the-badge" /></a>　
-    <a href="mailto:cys10902@gmail.com"><img src="https://img.shields.io/badge/Email-005698?style=for-the-badge" /></a>
-  </p>
-  <p>
     🌱 Junior Frontend Developer<br/>
     📘 Computer Software Engineering<br/>
     🦁 LikeLion University 11th<br/>
@@ -23,25 +18,17 @@
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Zustand-5395FD?style=for-the-badge&logo=zustand&logoColor=white" />  
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />  
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=reactQuery&logoColor=white" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=Tailwindcss&logoColor=white" />
 </div>
 
-<div align="center">
-  <h3>🛠️ Tools</h3>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VSCode&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> 	
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" /> 
-</div>
 <h2>　</h2>
 <div align="center">  
   <h3>🪄 Contribution</h3>
